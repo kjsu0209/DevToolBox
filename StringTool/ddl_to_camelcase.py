@@ -1,5 +1,7 @@
 # DevTool: ddl to java
 # How to run: Python 3.x shell
+# Requirements
+#   - clipboard-0.0.4 (pip3 install clipboard)
 # In use
 #    => Create dao from ddl
 #    => Change pythonic name following java naming rule
